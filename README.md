@@ -1,4 +1,4 @@
 # three1
-testing and fun based on three.js 
+web stuff and files for github pages 
 
-tba
+
